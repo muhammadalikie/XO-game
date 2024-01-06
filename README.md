@@ -1,6 +1,6 @@
 # XO-game
-simple XO game with html, css and js
+simple XO game with html, css, bootstrap and js
 
-features i used: flex, grid and localstorage
+# Perview:
 
 <img src="perview.png">
